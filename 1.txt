@@ -1,0 +1,24 @@
+#Actividad 72
+
+mensaje=str(input("Escribe un mensaje: "))
+costo=0
+listanum=list("1234567890")
+listaletras=list("abcdefghijklmnopqrstuvwxyz")
+listacaracteresespecialesesp=list("ñáéíóú")
+
+for x in mensaje:
+    if x.isalnum():
+        for y in range(len(listanum)):
+            if x==listanum[y]:
+                costo+=20
+        for z in range(len(listaletras)):
+            if x.lower()==listaletras[z]:
+                costo+=10
+        for a in range(len(listacaracteresespecialesesp)):
+            if x.lower()==listacaracteresespecialesesp[a]:
+                costo+=30
+    elif not x.isalnum() and x!=" ":
+        costo+=30
+
+strcosto=str(costo)
+print("Su mensaje cuesta $"+strcosto)
