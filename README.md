@@ -23,7 +23,7 @@ Ahora pasamos a crear un nuevo documento dentro del repositorio que hemos clonad
 
 ![Sexto comando](images/comando6.png)
 
-Posteriormente ya podremos hacer el commit para después hacer el push al repositorio con todos los cambios realizados hasta ahora, primeramente haremos un git add del README y luego un git commit:
+Posteriormente ya podremos hacer el commit para después hacer el push al repositorio con todos los cambios realizados hasta ahora, primeramente haremos un git add del README y después un git commit (también deberíamos hacer un git add de la carpeta con las imágenes que utilicemos en este README en caso necesario):
 
 ![Sépt. comando](images/comando7.png)
 ![Octavo comando](images/comando8.png)
