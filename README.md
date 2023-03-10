@@ -139,3 +139,7 @@ Le damos al botón y nos sale una ventana para hacer el pull request, si todo lo
 ![Imagen Github final 2](images/imagen6.png)
 
 Le damos al botón verde de "Create pull request" y habremos acabado por completo el ejercicio.
+
+CONCLUSIÓN:
+
+En el examen hemos podido ver los diferentes usos que le podemos dar a Github y cómo manejar cada uno de los comandos para realizar cualquier tipo de operaciones en los repositorios que queramos. Hemos aprendido cosas importantes como el commit, el archivo README y muchas cosas más que son esenciales a la hora de ser un programador y subir nuestros archivos a Github, creo que es algo muy importante de aprender también el tema de los tags y los branches sobre todo para el futuro ya que podremos estar con mucha gente y cada una querrá realizar unos cambios en un repositorio en concreto.
