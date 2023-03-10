@@ -90,7 +90,7 @@ Se nos abrirá una ventana donde tendremos un buscador, buscaremos al usuario y 
 
 SEGUNDA PARTE:
 
-Vamos a hacer una contribución a un proyecto de otro usuario, para ello primero hacemos un fork de este proyecto, iremos a la página del repositorio y haremos un nuevo fork en nuestros repositorios locales de github:
+Vamos a hacer una contribución a un proyecto de otro usuario, para ello primero hacemos un fork de este proyecto, iremos a la página del repositorio y haremos un nuevo fork en nuestros repositorios locales de github así:
 
 ![Imagen Github4](images/imagen4.png)
 
